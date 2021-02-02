@@ -1,31 +1,13 @@
-Introduction and Goals
+Introduction/Background
+======================
+Digiteks Insurance Solutions is a digital assessing company. The core business goal is to provide this assessing service to their clients in the most efficient manner possible, thus ensuring absolute client satisfaction. 
+
+Business Objectives/Goals
 ======================
 
-This document documents the software requirements and describes how the SCRUM team plans to implement them.
-- It should allow the developers to ideally develop the system without having to ask questions or take ad-hoc requirements.
-- It should ease the onboarding of new team members
-- It should inform the testers on how to run and test the system
 
-The introduction to the architecture documentation should list the
-driving forces that software architects must consider in their
-decisions. This includes on the one hand the fulfillment of functional
-requirements of the stakeholders, on the other hand the fulfillment of
-or compliance with required constraints, always in consideration of the
-architecture goals.
+ 
 
-.. _relevant_documents:
-
-Relevant Documents
-------------------
-
-Links to the relevant documents such as
-
-- VA Softwarentwicklung
-- Entwicklungsplan / Wartungsplan
-- Risikomanagement Akte
-- 
-
-.. _requirements_overview:
 
 Requirements Overview
 ---------------------
@@ -98,8 +80,16 @@ Stakeholders
 
 **Contents.**
 
-A list of the most important persons or organizations that are affected
-by or can contribute to the architecture.
+Internal:
+
+Admin Staff
+Assessors
+
+External:
+
+Insurers
+Panelbeaters
+Clients
 
 **Motivation.**
 
@@ -116,11 +106,13 @@ pertaining to architecture, their availability, etc. .Stakeholders
 +--------------------------+-------------------------------------------------+
 | Role/Name                | Goal/Boundaries                                 |
 +==========================+=================================================+
-| Expected Participation   | The name or role of a stakeholder               |
-| and Contribution         |                                                 |
+| Insurers                 | To appoint claims using the system              |
 +--------------------------+-------------------------------------------------+
-| Why will this            | what do you expect as a contribution            |
-| stakeholder have an      |                                                 |
-| interest in the          |                                                 |
-| architecture?            |                                                 |
+| Panelbeaters             | To be appointed on claims by using the system   |
++--------------------------+-------------------------------------------------+
+| Admin Staff              |                                                 |
++--------------------------+-------------------------------------------------+
+| Assessors                |                                                 |
++--------------------------+-------------------------------------------------+
+|                          |                                                 |
 +--------------------------+-------------------------------------------------+
