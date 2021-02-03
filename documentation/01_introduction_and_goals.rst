@@ -10,14 +10,12 @@ Business Objectives/Goals
 
 
 Requirements Overview
----------------------
+======================
 
-The **stakeholder requirements** are found in the corresponding `Jira
-<https://devanthro.atlassian.net/wiki/>`_ **instance.**
+
 The user stories link to the relevant system tests.
 
-.. todo:: 
-	Insert link to the stakeholder requirements
+
 
 The **software requirements** define the system from a blackbox/interfaces perspective. They are split into the following sections:
 
