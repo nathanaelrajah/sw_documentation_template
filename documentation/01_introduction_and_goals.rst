@@ -1,11 +1,11 @@
 Introduction/Background
 ======================
-Digiteks Insurance Solutions is a digital assessing company. The core business goal is to provide this assessing service to their clients in the most efficient manner possible, thus ensuring absolute client satisfaction. 
+Digiteks Insurance Solutions is a digital assessing company offering services to insurance companies. The core business goal is to provide this assessing service to their clients in the most efficient aproach possible, thus ensuring absolute client satisfaction. 
 
-Business Objectives/Goals
+Project objctives/Goals
 ======================
-
-
+1) To have a cenralised digital claims management and workflow system that integrates all workflows of the business in order to produce an efficient system.
+2) 
  
 
 
@@ -108,9 +108,11 @@ pertaining to architecture, their availability, etc. .Stakeholders
 +--------------------------+-------------------------------------------------+
 | Panelbeaters             | To be appointed on claims by using the system   |
 +--------------------------+-------------------------------------------------+
-| Admin Staff              |                                                 |
+| Admin Staff              | To recieve claims, attach all files for the     |
+|                          | claims and appoint an assessor on the claim     |
 +--------------------------+-------------------------------------------------+
-| Assessors                |                                                 |
+| Assessors                | To use all the files and data provided to them  |
+|                          | by the system in order to complete an assessment|
 +--------------------------+-------------------------------------------------+
 |                          |                                                 |
 +--------------------------+-------------------------------------------------+
