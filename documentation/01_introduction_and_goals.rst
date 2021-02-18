@@ -26,9 +26,6 @@ The **software requirements** define the system from a blackbox/interfaces persp
 The *Produktbeschreibung* and especially the *Zweckbestimmung* give an overview of the intended use of this system.
 
 .. todo::
-	Insert link to the Produktbeschreibung
-
-	Insert link to the Zweckbestimmung
 
 .. _quality_goals:
 
